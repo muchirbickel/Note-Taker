@@ -51,7 +51,7 @@ This app is under the MIT License.
 ## Contributing
 Feel free to contact me for any suggestion.
 ## Screenshot
-![](/public/Note-Taker-App.gif)
+![](/public/Untitled_%20Jan%204%2C%202023%203_47%20PM.gif)
 ## Questions
 Contact me: muchir99@gmail.com
 
