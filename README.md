@@ -28,7 +28,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 # Note Taker
 ![](https://img.shields.io/badge/license-MIT-green)
 ## Description
-[Deployed App Link](https://kk-note-taker.herokuapp.com/)
+[Deployed App Link](https://notetaker9999.herokuapp.com/)
 
 It is application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 ## Table of contents
@@ -55,4 +55,4 @@ Feel free to contact me for any suggestion.
 ## Questions
 Contact me: muchir99@gmail.com
 
-My Github: http://github.com/muchirbickel
+My Github: https://github.com/muchirbickel
